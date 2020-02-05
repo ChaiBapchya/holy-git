@@ -8,7 +8,6 @@ Git learned, unlearned and relearned
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
 
    license
    help
